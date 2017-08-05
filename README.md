@@ -1,3 +1,3 @@
 # React_SampleApp
 
-#In this repo, a sample React-Native app is created. Used codepen as sample IDE
+#Sample To Do List app created using React
